@@ -1,0 +1,8 @@
+
+dynamo-app/\.idea/
+
+dynamo-app/target/
+
+dynamo-app/dynamo-app\.iml
+
+\.DS_Store
